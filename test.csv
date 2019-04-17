@@ -1,0 +1,9 @@
+require 'csv'
+CSV.read("test.csv")
+
+id,name
+1,chocolate
+2,bacon
+3,apple
+4,banana
+5,almonds
